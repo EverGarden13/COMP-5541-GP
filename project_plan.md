@@ -61,11 +61,11 @@ This checklist outlines the key tasks to be completed for the project.
 
 ### Phase 1: Planning & Setup
 - [x] Finalize project plan (LLMs, Categories, Metrics)
-- [ ] Set up the `records.xlsx` file with worksheets for metrics and the two categories.
+- [x] Set up the `records.xlsx` file with worksheets for metrics and the two categories.
 
 ### Phase 2: Prompt Design & Evaluation
-- [ ] Design 30 prompts for the "Coding" category based on the defined metrics.
-- [ ] Design 30 prompts for the "Paraphrasing, Generation, and Creation" category.
+- [x] Design 30 prompts for the "Coding" category based on the defined metrics.
+- [x] Design 30 prompts for the "Paraphrasing, Generation, and Creation" category.
 - [ ] Run all 60 prompts on `GPT-4.1-mini` and record results.
 - [ ] Run all 60 prompts on `Llama` and record results.
 - [ ] Run all 60 prompts on `Mistral` and record results.
