@@ -1,0 +1,107 @@
+================================================================================
+LLM EVALUATION ANALYSIS REPORT
+================================================================================
+
+OVERALL MODEL RANKINGS
+----------------------------------------
+1. Mistral: 7.65/10
+2. Llama: 7.55/10
+3. GPT-4.1-mini: 7.49/10
+
+================================================================================
+PERFORMANCE ANALYSIS
+================================================================================
+
+CODING CATEGORY RESULTS
+----------------------------------------
+
+GPT-4.1-mini:
+  Average Score: 7.98/10
+  Median Score:  7.95/10
+  Std Deviation: 0.65
+  Score Range:   6.80 - 9.20
+  Total Responses: 30/30
+
+Llama:
+  Average Score: 8.16/10
+  Median Score:  8.30/10
+  Std Deviation: 0.55
+  Score Range:   6.70 - 8.90
+  Total Responses: 30/30
+
+Mistral:
+  Average Score: 8.01/10
+  Median Score:  8.05/10
+  Std Deviation: 0.70
+  Score Range:   6.70 - 9.30
+  Total Responses: 30/30
+
+PARAPHRASING CATEGORY RESULTS
+----------------------------------------
+
+GPT-4.1-mini:
+  Average Score: 6.99/10
+  Median Score:  6.90/10
+  Std Deviation: 0.33
+  Score Range:   6.55 - 7.95
+  Total Responses: 30/30
+
+Llama:
+  Average Score: 6.95/10
+  Median Score:  6.80/10
+  Std Deviation: 0.38
+  Score Range:   6.45 - 8.05
+  Total Responses: 30/30
+
+Mistral:
+  Average Score: 7.29/10
+  Median Score:  7.20/10
+  Std Deviation: 0.32
+  Score Range:   6.65 - 8.25
+  Total Responses: 30/30
+
+================================================================================
+DETAILED METRIC BREAKDOWN
+================================================================================
+
+CODING METRICS AVERAGE SCORES:
+----------------------------------------
+
+GPT-4.1-mini:
+  Correctness: 8.88/10 (weight: 40%)
+  Efficiency: 6.25/10 (weight: 20%)
+  Readability: 9.92/10 (weight: 20%)
+  Error Handling: 5.98/10 (weight: 20%)
+
+Llama:
+  Correctness: 9.02/10 (weight: 40%)
+  Efficiency: 6.45/10 (weight: 20%)
+  Readability: 9.92/10 (weight: 20%)
+  Error Handling: 6.42/10 (weight: 20%)
+
+Mistral:
+  Correctness: 9.03/10 (weight: 40%)
+  Efficiency: 6.50/10 (weight: 20%)
+  Readability: 9.82/10 (weight: 20%)
+  Error Handling: 5.65/10 (weight: 20%)
+
+PARAPHRASING METRICS AVERAGE SCORES:
+----------------------------------------
+
+GPT-4.1-mini:
+  Relevance & Fidelity: 7.50/10 (weight: 30%)
+  Creativity & Originality: 7.18/10 (weight: 30%)
+  Fluency & Coherence: 7.63/10 (weight: 20%)
+  Prompt Adherence: 5.28/10 (weight: 20%)
+
+Llama:
+  Relevance & Fidelity: 7.20/10 (weight: 30%)
+  Creativity & Originality: 6.93/10 (weight: 30%)
+  Fluency & Coherence: 8.15/10 (weight: 20%)
+  Prompt Adherence: 5.38/10 (weight: 20%)
+
+Mistral:
+  Relevance & Fidelity: 7.53/10 (weight: 30%)
+  Creativity & Originality: 7.62/10 (weight: 30%)
+  Fluency & Coherence: 8.28/10 (weight: 20%)
+  Prompt Adherence: 5.45/10 (weight: 20%)

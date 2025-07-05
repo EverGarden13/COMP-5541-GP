@@ -73,9 +73,9 @@ This checklist outlines the key tasks to be completed for the project.
 - [x] Format and import all paraphrasing responses into `records.xlsx` (90/90 responses added).
 
 ### Phase 3: Analysis & Reporting
-- [ ] Fill in any remaining empty responses in `records.xlsx`.
-- [ ] Script of analysis response and calculate score of it.
-- [ ] Analyze the collected data in `records.xlsx`.
+- [x] Fill in any remaining empty responses in `records.xlsx`.
+- [x] Script of analysis response and calculate score of it.
+- [x] Analyze the collected data in `records.xlsx`.
 - [ ] Write the "Introduction" section of the report.
 - [ ] Write the "Methodology" section of the report.
 - [ ] Write the "Experimental Results and Analysis" section of the report.
