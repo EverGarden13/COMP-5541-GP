@@ -66,11 +66,15 @@ This checklist outlines the key tasks to be completed for the project.
 ### Phase 2: Prompt Design & Evaluation
 - [x] Design 30 prompts for the "Coding" category based on the defined metrics.
 - [x] Design 30 prompts for the "Paraphrasing, Generation, and Creation" category.
-- [ ] Run all 60 prompts on `GPT-4.1-mini` and record results.
-- [ ] Run all 60 prompts on `Llama` and record results.
-- [ ] Run all 60 prompts on `Mistral` and record results.
+- [x] Run all 60 prompts on `GPT-4.1-mini` and record results.
+- [x] Run all 60 prompts on `Llama` and record results.
+- [x] Run all 60 prompts on `Mistral` and record results.
+- [x] Format and import all coding responses into `records.xlsx` (86/90 responses added).
+- [x] Format and import all paraphrasing responses into `records.xlsx` (90/90 responses added).
 
 ### Phase 3: Analysis & Reporting
+- [ ] Fill in any remaining empty responses in `records.xlsx`.
+- [ ] Script of analysis response and calculate score of it.
 - [ ] Analyze the collected data in `records.xlsx`.
 - [ ] Write the "Introduction" section of the report.
 - [ ] Write the "Methodology" section of the report.
