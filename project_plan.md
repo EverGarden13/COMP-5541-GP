@@ -76,11 +76,11 @@ This checklist outlines the key tasks to be completed for the project.
 - [x] Fill in any remaining empty responses in `records.xlsx`.
 - [x] Script of analysis response and calculate score of it.
 - [x] Analyze the collected data in `records.xlsx`.
-- [ ] Write the "Introduction" section of the report.
-- [ ] Write the "Methodology" section of the report.
-- [ ] Write the "Experimental Results and Analysis" section of the report.
-- [ ] Write the "Conclusions" section of the report.
-- [ ] Assemble and format the complete project report as a PDF.
+- [x] Write the "Introduction" section of the report.
+- [x] Write the "Methodology" section of the report.
+- [x] Write the "Experimental Results and Analysis" section of the report.
+- [x] Write the "Conclusions" section of the report.
+- [x] Assemble and format the complete project report as a PDF.
 
 ### Phase 4: Presentation & Submission
 - [ ] Create the PowerPoint presentation slides.
